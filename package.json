@@ -1,5 +1,5 @@
 {
-  "name": "appcGitTestApp",
+  "name": "appcGitTestApp_dependencies",
   "version": "0.1.0",
   "description": "",
   "framework": "mvc",
@@ -19,6 +19,8 @@
   },
   "preferGlobal": false,
   "dependencies": {
+	"express": "*",
+        "jade": "*"
   },
   "license":"",
   "private": true
